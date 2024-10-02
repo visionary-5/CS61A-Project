@@ -22,3 +22,12 @@ The result of this series of calls modulo 30 is the amount of points the player 
 
 ### Final product
 You can try out the online Hog GUI with the staff solution to the project at hog.cs61a.org. When you finish the project, you'll have implemented a significant part of this game yourself.
+
+
+## Project 2: The  Game of Cats
+
+### Introduction
+In this project, you will write a program that measures typing speed. Additionally, you will implement typing autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by typeracer.
+
+### Final product
+Our staff solution to the project can be interacted with at cats.cs61a.org. If you'd like, feel free to try it out now. When you finish the project, you'll have implemented a significant part of this match yourself!
